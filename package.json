@@ -1,0 +1,23 @@
+{
+  "name": "mapy-cz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkocich/mapy-cz.git"
+  },
+  "author": "DavidK <dkocich@gmail.com> (https://github.com/dkocich)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkocich/mapy-cz/issues"
+  },
+  "homepage": "https://github.com/dkocich/mapy-cz#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
