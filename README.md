@@ -1,22 +1,18 @@
-#mapy-cz
+# mapy-cz
 
 Mapy.cz API Client for Node JS (http://api.mapy.cz/). It supports geocode function of the **REST API version 4.11** described here http://api.mapy.cz/view?page=geocoding .
 
-#Depencendy
-
-```
-npm install events, util, http, xml2js
-```
-
-#Installing
+## Installation
 
 ```
 npm install mapy-cz
 ```
 
-##Usage:
+## Usage:
 
-`var mapycz = require('mapy-cz');`
+```
+var mapycz = require('mapy-cz');
+```
 
 Create a `mapycz` instance that can be used to make requests to Mapy.cz's geocoding APIs.
 
@@ -74,8 +70,7 @@ mapyczCoordinates.on("end", function (response) {
     // }
 
 });
-
--------
+```
 
 ## License
 
@@ -103,6 +98,6 @@ THE SOFTWARE.
 
 ## Changelog
 
-###0.0.1
+### 0.0.1
 
   * first commit and testing version release

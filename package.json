@@ -17,13 +17,13 @@
   },
   "homepage": "https://github.com/dkocich/mapy-cz#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3"
+    "chai": "4.1.2",
+    "mocha": "4.0.1"
   },
   "dependencies": {
-    "events": "^1.1.1",
+    "events": "1.1.1",
     "http": "0.0.0",
-    "util": "^0.10.3",
-    "xml2js": "^0.4.17"
+    "util": "0.10.3",
+    "xml2js": "0.4.19"
   }
 }
