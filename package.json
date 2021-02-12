@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/dkocich/mapy-cz#readme",
   "devDependencies": {
-    "chai": "4.1.2",
+    "chai": "4.2.0",
     "mocha": "4.0.1"
   },
   "dependencies": {
